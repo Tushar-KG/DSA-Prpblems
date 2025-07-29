@@ -1,24 +1,12 @@
-\# DSA Problems in C
-
+# DSA Problems in C
 
 
 This repo contains C implementations of common Data Structures and Algorithms problems.
+## Topics Covered
 
-
-
-\## Topics Covered
-
-
-
-\- Arrays
-
-\- Linked Lists
-
-\- Stacks
-
-\- Queues
-
-\- Sorting Algorithms
-
-
-
+  
+- [ ] Arrays
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Queues
+- [ ] Sorting Algorithms
