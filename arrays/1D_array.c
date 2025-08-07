@@ -54,6 +54,6 @@ int main(){
     for(i = 0;i < n; i++){
         t=t+Arr[i];
     }
-    printf("Sum= %d ",t);
+    printf("\nSum= %d ",t);
     return 0;
 }
